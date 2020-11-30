@@ -1,2 +1,2 @@
-# EyeTrackerAnalysis
-Old repository; Will leave a link to the updated eye-tracker-analysis repository.
+# OLD: EyeTrackerAnalysis
+Please go to new repository here: https://github.com/toddnguyen47/eye-tracker-analysis
